@@ -1,4 +1,4 @@
-<img width="100" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2Cr7AONpJutA4SmGl2N8kLyCS_cwAa661lu1rsJgj_1HAlWCK6TgK-43ZDBlCMA-Tsg&usqp=CAU">
+<img width="100%" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2Cr7AONpJutA4SmGl2N8kLyCS_cwAa661lu1rsJgj_1HAlWCK6TgK-43ZDBlCMA-Tsg&usqp=CAU">
 
 # Codewars Challenge and Solutions
 This repo showcases my ongoing progress and dedication to improving my coding skills through regular coding challenges. By documenting my solutions in this repository, I aim to track my growth and share my journey with others who may be interested in exploring CodeWar challenges. Whether you're a fellow coding enthusiast or simply curious about different coding problems and solutions, feel free to explore the contents of this repository and gain insights into my daily coding adventures.
